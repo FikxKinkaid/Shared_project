@@ -120,7 +120,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 
 Package inputenc Warning: inputenc package ignored with utf8 based engines.
 
-)) (l3backend-xetex.def
+)) (sections/title.tex) (l3backend-xetex.def
 File: l3backend-xetex.def 2022-02-07 L3 backend support: XeTeX
 \c__kernel_sys_dvipdfmx_version_int=\count270
 \l__color_backend_stack_int=\count271
@@ -189,7 +189,14 @@ LaTeX Font Info:    ... okay on input line 5.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-[1
+LaTeX Font Info:    Trying to load font information for U+msa on input line 6.
+(umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
+ (umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) [1
 
 ] (main.aux) )
-Output written on main.xdv (1 page, 708 bytes).
+Output written on main.xdv (1 page, 1720 bytes).
