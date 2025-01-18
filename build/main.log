@@ -1,7 +1,6 @@
 **
 (main.tex
 LaTeX2e <2021-11-15> patch level 1
-<<<<<<< HEAD
 L3 programming layer <2022-02-24> (sections/preamble.tex (article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
 (size10.clo
@@ -193,13 +192,4 @@ LaTeX Font Info:    ... okay on input line 5.
 [1
 
 ] (main.aux) )
-Output written on main.xdv (1 page, 384 bytes).
-=======
-L3 programming layer <2022-02-24>
-! Undefined control sequence.
-<argument> sectionspreamble 
-                            .tex
-l.2 \input{sections\preamble.tex}
-                                 
-No pages of output.
->>>>>>> de43e41 (Added log)
+Output written on main.xdv (1 page, 404 bytes).
