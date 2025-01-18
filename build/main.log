@@ -196,7 +196,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 6.
  (umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+) (sections/body.tex) [1
 
 ] (main.aux) )
-Output written on main.xdv (1 page, 1720 bytes).
+Output written on main.xdv (1 page, 2180 bytes).
